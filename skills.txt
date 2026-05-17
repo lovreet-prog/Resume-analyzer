@@ -1,0 +1,14 @@
+python
+java
+c++
+sql
+machine learning
+artificial intelligence
+data structures
+problem solving
+git
+github
+communication
+teamwork
+cyber security
+linux
